@@ -1,0 +1,5 @@
+Kernel trace events
+Device, Binary, Kernel, Compute Unit, Function, Data Type, Index, Start Time (ms), End Time (ms), Value
+xilinx_aws-vu9p-f1_shell-v04261818_201920_2-0,krnl_canny,canny_accel,canny_accel_1,top,top,0,0.016815,0.084982,0
+xilinx_aws-vu9p-f1_shell-v04261818_201920_2-0,krnl_canny,dilation_accel,dilation_accel_1,top,top,0,0.957063,0.969629,0
+xilinx_aws-vu9p-f1_shell-v04261818_201920_2-0,krnl_canny,edgetracing_accel,edgetracing_accel_1,top,top,0,0.087222,0.954292,0
